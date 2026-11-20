@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "steps": [
+    { "op": "background", "value": "#ffffff" },
+    { "op": "resize", "mode": "cover", "width": 600, "height": 600 },
+    { "op": "brightness", "value": "8" },
+    { "op": "contrast", "value": "6" },
+    { "op": "radius", "value": "8%" },
+    { "op": "format", "format": "webp" },
+    { "op": "quality", "quality": 82 }
+  ]
+}
